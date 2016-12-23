@@ -21,6 +21,7 @@ unless defined?(Test::Unit::AssertionFailedError)
   end
 end
 
+require 'fluent/input'
 require 'fluent/plugin/in_mysql_status'
 
 class Test::Unit::TestCase
