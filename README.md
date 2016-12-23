@@ -3,7 +3,7 @@
 [fluentd](http://fluentd.org) input plugin that monitor status of MySQL Server.
 
 [![Build Status](https://travis-ci.org/gumi/fluent-plugin-mysql-status.svg?branch=master)](https://travis-ci.org/gumi/fluent-plugin-mysql-status)
-[![Code Climate](https://codeclimate.com/github/gumi/fluent-plugin-plugin-mysql/badges/gpa.svg)](https://codeclimate.com/github/gumi/fluent-plugin-mysql-status)
+[![Code Climate](https://codeclimate.com/github/gumi/fluent-plugin-mysql-status/badges/gpa.svg)](https://codeclimate.com/github/gumi/fluent-plugin-mysql-status)
 
 ## Installation
 
