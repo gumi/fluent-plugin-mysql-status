@@ -68,8 +68,8 @@ However, since queries run sequentially, slow queries hinder other queries from 
 The following types are available.
 
 - processlist - SHOW FULL PROCESSLIST
-- status - SHOW OPEN TABLES
-- open_tables - SHOW /*!50002 GLOBAL */ STATUS
+- status - SHOW /*!50002 GLOBAL */ STATUS
+- open_tables - SHOW OPEN TABLES
 
 ### query.string
 
