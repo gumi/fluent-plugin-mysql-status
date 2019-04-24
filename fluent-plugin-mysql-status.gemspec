@@ -22,5 +22,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "test-unit", ["~> 3.0", "~> 3.1"]
 
   spec.add_dependency "fluentd", ">= 0.10.55"
-  spec.add_dependency "mysql2", "~> 0.3.11"
+  spec.add_dependency "mysql2", "~> 0.5.2"
 end
